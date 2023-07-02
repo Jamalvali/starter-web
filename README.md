@@ -10,6 +10,8 @@ This is simple website project for showing how to use Git and Github together.
 
 ## How to contribute
 
+Please fork this repository  then issue pull request.
+
 ### Copyright
 
 2014 Git.Training
